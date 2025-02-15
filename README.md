@@ -3,7 +3,7 @@
 This project is a weather forecast application created using HTML, CSS, and JavaScript. It fetches weather data from a third-party API and displays the current weather conditions, as well as a 7-day forecast for any specified location.
 
 
-Features
+Features:
 
 Real-time Weather Data: Displays current weather conditions including temperature, humidity, wind speed, and weather description.
 
